@@ -4,6 +4,8 @@ The project files of the CF-4 lessons, one folder per lesson. Each file is the l
 
 | Lesson | File | What it does |
 |---|---|---|
+| L01 | `L01/items_doubling.py`, `sum_of_list.py`, `range_list.py` | while and for loops, range() |
+| L02 | `L02/welcome_by_age.py`, `validate_password.py`, `hashtag_generator.py`, `random_numbers.py`, `celsius_to_fahrenheit.py` | functions, parameters, return and the random module |
 | L03 | `L03/fizzbuzz.py` | FizzBuzz with a for loop and if / elif / else |
 | L04 | `L04/xo_game.py` | XO (tic-tac-toe) in Tkinter: the board and taking turns |
 | L05 | `L05/xo_game.py` | XO complete: winner, draw, play again and the score |
